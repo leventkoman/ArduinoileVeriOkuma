@@ -1,0 +1,18 @@
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.exe.config
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.exe
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.pdb
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.csprojResolveAssemblyReference.cache
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.Form1.resources
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.Properties.Resources.resources
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.csproj.GenerateResource.Cache
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.exe
+c:\users\levent\documents\visual studio 2015\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.pdb
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.exe.config
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.exe
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\bin\Debug\veriOkuma.pdb
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.csprojAssemblyReference.cache
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.Form1.resources
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.Properties.Resources.resources
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.csproj.GenerateResource.cache
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.exe
+F:\Son\Visual Studio\Projects\veriOkuma\veriOkuma\obj\Debug\veriOkuma.pdb
